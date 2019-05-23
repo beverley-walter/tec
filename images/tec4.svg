@@ -1,0 +1,40 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 219.207">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.4;
+      }
+
+      .cls-2 {
+        fill: #fe9900;
+      }
+    </style>
+  </defs>
+  <title>TEC4</title>
+  <g class="cls-1">
+    <g>
+      <g>
+        <polygon class="cls-2" points="26.86 106.138 0 106.138 110 0 26.86 106.138"/>
+        <polygon class="cls-2" points="61.235 106.138 34.375 106.138 144.375 0 61.235 106.138"/>
+        <polygon class="cls-2" points="95.611 106.138 68.75 106.138 178.75 0 95.611 106.138"/>
+      </g>
+      <g>
+        <polygon class="cls-2" points="193.14 106.138 220 106.138 110 0 193.14 106.138"/>
+        <polygon class="cls-2" points="158.765 106.138 185.625 106.138 75.625 0 158.765 106.138"/>
+        <polygon class="cls-2" points="124.389 106.138 151.25 106.138 41.25 0 124.389 106.138"/>
+      </g>
+    </g>
+    <g>
+      <g>
+        <polygon class="cls-2" points="26.86 113.068 0 113.068 110 219.207 26.86 113.068"/>
+        <polygon class="cls-2" points="61.235 113.068 34.375 113.068 144.375 219.207 61.235 113.068"/>
+        <polygon class="cls-2" points="95.611 113.068 68.75 113.068 178.75 219.207 95.611 113.068"/>
+      </g>
+      <g>
+        <polygon class="cls-2" points="193.14 113.068 220 113.068 110 219.207 193.14 113.068"/>
+        <polygon class="cls-2" points="158.765 113.068 185.625 113.068 75.625 219.207 158.765 113.068"/>
+        <polygon class="cls-2" points="124.389 113.068 151.25 113.068 41.25 219.207 124.389 113.068"/>
+      </g>
+    </g>
+  </g>
+</svg>

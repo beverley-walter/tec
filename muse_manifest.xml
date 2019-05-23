@@ -1,0 +1,130 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="beverley-walter.github.io/tec" resolutions="1x" timestamp="1558605637355">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="376799383" ref="case-studies:index:side-hustle:personal-details---cv:references"/>
+    <file name="case-studies.css" crc="351066365" ref="case-studies"/>
+    <file name="iefonts_case-studies.css" crc="3933949831" ref="case-studies"/>
+    <file name="index.css" crc="248829293" ref="index"/>
+    <file name="iefonts_index.css" crc="450912746" ref="index"/>
+    <file name="side-hustle.css" crc="4051658536" ref="side-hustle"/>
+    <file name="iefonts_side-hustle.css" crc="3947606882" ref="side-hustle"/>
+    <file name="personal-details---cv.css" crc="452819121" ref="personal-details---cv"/>
+    <file name="iefonts_personal-details---cv.css" crc="309308548" ref="personal-details---cv"/>
+    <file name="references.css" crc="3909713957" ref="references"/>
+    <file name="iefonts_references.css" crc="4184945849" ref="references"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
+    <file name="museutils.js" crc="340535759" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
+    <file name="whatinput.js" crc="86476730" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
+    <file name="museconfig.js" crc="310584261" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
+    <file name="webpro.js" crc="4059564322" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
+    <file name="require.js" crc="7928878" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="personal-details---cv"/>
+    <file name="u145-8.png" crc="308107329" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
+    <file name="u242-8.png" crc="3797641569" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
+    <file name="u246-8.png" crc="4294379828" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
+    <file name="u153-8.png" crc="97161415" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
+    <file name="u439-151.png" crc="340392180" ref="personal-details---cv"/>
+    <file name="tec1.svg" crc="4019355223" seo="true" ref="personal-details---cv:case-studies:side-hustle:references:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="references" alt=""/>
+      <caption webpage="case-studies" alt=""/>
+      <caption webpage="personal-details---cv" alt=""/>
+      <caption webpage="side-hustle" alt=""/>
+    </file>
+    <file name="tec1_poster_.png" crc="3977157936" ref="personal-details---cv"/>
+    <file name="tec2.svg" crc="3993776629" seo="true" ref="personal-details---cv:case-studies:side-hustle:references:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="references" alt=""/>
+      <caption webpage="case-studies" alt=""/>
+      <caption webpage="personal-details---cv" alt=""/>
+      <caption webpage="side-hustle" alt=""/>
+    </file>
+    <file name="tec2_poster_.png" crc="259463317" ref="personal-details---cv"/>
+    <file name="tec3.svg" crc="375840058" seo="true" ref="personal-details---cv:case-studies:side-hustle:references:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="references" alt=""/>
+      <caption webpage="case-studies" alt=""/>
+      <caption webpage="personal-details---cv" alt=""/>
+      <caption webpage="side-hustle" alt=""/>
+    </file>
+    <file name="tec3_poster_.png" crc="390048656" ref="personal-details---cv"/>
+    <file name="tec4.svg" crc="3866402249" seo="true" ref="personal-details---cv:case-studies:side-hustle:references:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="references" alt=""/>
+      <caption webpage="case-studies" alt=""/>
+      <caption webpage="personal-details---cv" alt=""/>
+      <caption webpage="side-hustle" alt=""/>
+    </file>
+    <file name="tec4_poster_.png" crc="452294805" ref="personal-details---cv"/>
+    <file name="tec5.svg" crc="3863668096" seo="true" ref="personal-details---cv:case-studies:side-hustle:references:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="references" alt=""/>
+      <caption webpage="case-studies" alt=""/>
+      <caption webpage="personal-details---cv" alt=""/>
+      <caption webpage="side-hustle" alt=""/>
+    </file>
+    <file name="tec5_poster_.png" crc="172075295" ref="personal-details---cv"/>
+    <file name="tht.jpg" crc="4269970467" seo="true" ref="case-studies">
+      <caption webpage="case-studies" alt=""/>
+    </file>
+    <file name="tww.jpg" crc="3923419360" seo="true" ref="case-studies">
+      <caption webpage="case-studies" alt=""/>
+    </file>
+    <file name="tat.jpg" crc="4288468660" seo="true" ref="case-studies">
+      <caption webpage="case-studies" alt=""/>
+    </file>
+    <file name="planning.jpg" crc="199430141" seo="true" ref="case-studies">
+      <caption webpage="case-studies" alt=""/>
+    </file>
+    <file name="648466-01.jpg" crc="385103395" seo="true" ref="case-studies">
+      <caption webpage="case-studies" alt=""/>
+    </file>
+    <file name="1505175927504.jpg" crc="430311957" seo="true" ref="case-studies">
+      <caption webpage="case-studies" alt=""/>
+    </file>
+    <file name="screen shot 2011-09-21 at 20744 pm.jpg" crc="4158291737" seo="true" ref="case-studies">
+      <caption webpage="case-studies" alt=""/>
+    </file>
+    <file name="screen shot 2011-09-21 at 20624 pm.jpg" crc="4234202264" seo="true" ref="case-studies">
+      <caption webpage="case-studies" alt=""/>
+    </file>
+    <file name="screen shot 2011-09-21 at 20718 pm.jpg" crc="279123905" seo="true" ref="case-studies">
+      <caption webpage="case-studies" alt=""/>
+    </file>
+    <file name="centaur.jpg" crc="4132616846" seo="true" ref="case-studies">
+      <caption webpage="case-studies" alt=""/>
+    </file>
+    <file name="screen shot 2018-12-03 at 122400.jpg" crc="4147449250" seo="true" ref="side-hustle">
+      <caption webpage="side-hustle" alt=""/>
+    </file>
+    <file name="screen shot 2018-12-03 at 122421.jpg" crc="3760678657" seo="true" ref="side-hustle">
+      <caption webpage="side-hustle" alt=""/>
+    </file>
+    <file name="stephens.jpg" crc="306196075" seo="true" ref="references">
+      <caption webpage="references" alt=""/>
+    </file>
+    <file name="ray.jpg" crc="3850619824" seo="true" ref="references">
+      <caption webpage="references" alt=""/>
+    </file>
+    <file name="harrison.jpg" crc="11209270" seo="true" ref="references">
+      <caption webpage="references" alt=""/>
+    </file>
+    <file name="us.jpg" crc="266032234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="41085387_10157278349931030_2602676226334130176_n.jpg" crc="327827906" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="personal-details---cv.html" crc="4084599384" seo="true" mt="1558605231866" redirect="true"/>
+  <file name="case-studies.html" crc="4044977253" seo="true" mt="1558605243540" redirect="true"/>
+  <file name="side-hustle.html" crc="118018241" seo="true" mt="1558603848992" redirect="true"/>
+  <file name="references.html" crc="289012160" seo="true" mt="1558604368135" redirect="true"/>
+  <file name="index.html" crc="267667264" seo="true" mt="1558605205412" redirect="true"/>
+</manifest>
