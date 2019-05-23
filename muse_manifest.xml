@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="beverley-walter.github.io/tec" resolutions="1x" timestamp="1558606158220">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="beverley-walter.github.io/tec" resolutions="1x" timestamp="1558606338984">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="97290413" ref="case-studies:index:side-hustle:personal-details---cv:references"/>
     <file name="case-studies.css" crc="411795284" ref="case-studies"/>
     <file name="iefonts_case-studies.css" crc="3933949831" ref="case-studies"/>
-    <file name="index.css" crc="448894177" ref="index"/>
+    <file name="index.css" crc="364967397" ref="index"/>
     <file name="iefonts_index.css" crc="450912746" ref="index"/>
     <file name="side-hustle.css" crc="4236903211" ref="side-hustle"/>
     <file name="iefonts_side-hustle.css" crc="3947606882" ref="side-hustle"/>
@@ -24,7 +24,7 @@
     <file name="require.js" crc="7928878" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="personal-details---cv"/>
+    <file name="blank.gif" crc="4208392903" ref="personal-details---cv:index"/>
     <file name="u145-8.png" crc="308107329" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
     <file name="u242-8.png" crc="3797641569" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
     <file name="u246-8.png" crc="4294379828" ref="personal-details---cv:case-studies:side-hustle:references:index"/>
@@ -37,7 +37,7 @@
       <caption webpage="personal-details---cv" alt=""/>
       <caption webpage="side-hustle" alt=""/>
     </file>
-    <file name="tec1_poster_.png" crc="3977157936" ref="personal-details---cv"/>
+    <file name="tec1_poster_.png" crc="3977157936" ref="personal-details---cv:index"/>
     <file name="tec2.svg" crc="3993776629" seo="true" ref="personal-details---cv:case-studies:side-hustle:references:index">
       <caption webpage="index" alt=""/>
       <caption webpage="references" alt=""/>
@@ -45,7 +45,7 @@
       <caption webpage="personal-details---cv" alt=""/>
       <caption webpage="side-hustle" alt=""/>
     </file>
-    <file name="tec2_poster_.png" crc="259463317" ref="personal-details---cv"/>
+    <file name="tec2_poster_.png" crc="259463317" ref="personal-details---cv:index"/>
     <file name="tec3.svg" crc="375840058" seo="true" ref="personal-details---cv:case-studies:side-hustle:references:index">
       <caption webpage="index" alt=""/>
       <caption webpage="references" alt=""/>
@@ -53,7 +53,7 @@
       <caption webpage="personal-details---cv" alt=""/>
       <caption webpage="side-hustle" alt=""/>
     </file>
-    <file name="tec3_poster_.png" crc="390048656" ref="personal-details---cv"/>
+    <file name="tec3_poster_.png" crc="390048656" ref="personal-details---cv:index"/>
     <file name="tec4.svg" crc="3866402249" seo="true" ref="personal-details---cv:case-studies:side-hustle:references:index">
       <caption webpage="index" alt=""/>
       <caption webpage="references" alt=""/>
@@ -61,7 +61,7 @@
       <caption webpage="personal-details---cv" alt=""/>
       <caption webpage="side-hustle" alt=""/>
     </file>
-    <file name="tec4_poster_.png" crc="452294805" ref="personal-details---cv"/>
+    <file name="tec4_poster_.png" crc="452294805" ref="personal-details---cv:index"/>
     <file name="tec5.svg" crc="3863668096" seo="true" ref="personal-details---cv:case-studies:side-hustle:references:index">
       <caption webpage="index" alt=""/>
       <caption webpage="references" alt=""/>
@@ -69,7 +69,7 @@
       <caption webpage="personal-details---cv" alt=""/>
       <caption webpage="side-hustle" alt=""/>
     </file>
-    <file name="tec5_poster_.png" crc="172075295" ref="personal-details---cv"/>
+    <file name="tec5_poster_.png" crc="172075295" ref="personal-details---cv:index"/>
     <file name="tht.jpg" crc="4269970467" seo="true" ref="case-studies">
       <caption webpage="case-studies" alt=""/>
     </file>
@@ -126,5 +126,5 @@
   <file name="case-studies.html" crc="4019329828" seo="true" mt="1558606102737" redirect="true"/>
   <file name="side-hustle.html" crc="4163264689" seo="true" mt="1558606102737" redirect="true"/>
   <file name="references.html" crc="4137085572" seo="true" mt="1558606102737" redirect="true"/>
-  <file name="index.html" crc="3891569819" seo="true" mt="1558606102737" redirect="true"/>
+  <file name="index.html" crc="4117079013" seo="true" mt="1558606305578" redirect="true"/>
 </manifest>
