@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="beverley-walter.github.io/tec" resolutions="1x" timestamp="1558605637355">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="beverley-walter.github.io/tec" resolutions="1x" timestamp="1558606158220">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="376799383" ref="case-studies:index:side-hustle:personal-details---cv:references"/>
-    <file name="case-studies.css" crc="351066365" ref="case-studies"/>
+    <file name="master_a-master.css" crc="97290413" ref="case-studies:index:side-hustle:personal-details---cv:references"/>
+    <file name="case-studies.css" crc="411795284" ref="case-studies"/>
     <file name="iefonts_case-studies.css" crc="3933949831" ref="case-studies"/>
-    <file name="index.css" crc="248829293" ref="index"/>
+    <file name="index.css" crc="448894177" ref="index"/>
     <file name="iefonts_index.css" crc="450912746" ref="index"/>
-    <file name="side-hustle.css" crc="4051658536" ref="side-hustle"/>
+    <file name="side-hustle.css" crc="4236903211" ref="side-hustle"/>
     <file name="iefonts_side-hustle.css" crc="3947606882" ref="side-hustle"/>
-    <file name="personal-details---cv.css" crc="452819121" ref="personal-details---cv"/>
+    <file name="personal-details---cv.css" crc="16655120" ref="personal-details---cv"/>
     <file name="iefonts_personal-details---cv.css" crc="309308548" ref="personal-details---cv"/>
-    <file name="references.css" crc="3909713957" ref="references"/>
+    <file name="references.css" crc="4003646150" ref="references"/>
     <file name="iefonts_references.css" crc="4184945849" ref="references"/>
   </folder>
   <folder name="scripts">
@@ -122,9 +122,9 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="personal-details---cv.html" crc="4084599384" seo="true" mt="1558605231866" redirect="true"/>
-  <file name="case-studies.html" crc="4044977253" seo="true" mt="1558605243540" redirect="true"/>
-  <file name="side-hustle.html" crc="118018241" seo="true" mt="1558603848992" redirect="true"/>
-  <file name="references.html" crc="289012160" seo="true" mt="1558604368135" redirect="true"/>
-  <file name="index.html" crc="267667264" seo="true" mt="1558605205412" redirect="true"/>
+  <file name="personal-details---cv.html" crc="4237698143" seo="true" mt="1558606102737" redirect="true"/>
+  <file name="case-studies.html" crc="4019329828" seo="true" mt="1558606102737" redirect="true"/>
+  <file name="side-hustle.html" crc="4163264689" seo="true" mt="1558606102737" redirect="true"/>
+  <file name="references.html" crc="4137085572" seo="true" mt="1558606102737" redirect="true"/>
+  <file name="index.html" crc="3891569819" seo="true" mt="1558606102737" redirect="true"/>
 </manifest>
