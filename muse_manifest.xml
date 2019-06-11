@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="beverley-walter.github.io/tec" resolutions="1x" timestamp="1560162882283">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="beverley-walter.github.io/tec" resolutions="1x" timestamp="1560230341151">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="360994518" ref="case-studies:index:side-hustle:personal-details---cv:references"/>
@@ -123,7 +123,7 @@
     </file>
   </folder>
   <file name="personal-details---cv.html" crc="4237698143" seo="true" mt="1558606102737" redirect="true"/>
-  <file name="case-studies.html" crc="4084733581" seo="true" mt="1560162872076" redirect="true"/>
+  <file name="case-studies.html" crc="251232030" seo="true" mt="1560230314987" redirect="true"/>
   <file name="side-hustle.html" crc="4163264689" seo="true" mt="1558606102737" redirect="true"/>
   <file name="references.html" crc="4137085572" seo="true" mt="1558606102737" redirect="true"/>
   <file name="index.html" crc="4117079013" seo="true" mt="1558606305578" redirect="true"/>
